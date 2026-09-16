@@ -62,7 +62,7 @@
 
 ` SELECT * FROM  ``orders``  ORDER BY  ``order_date``  DESC; `
 
-
+<img src="https://github.com/N1ghtMare1q/lab01/blob/main/photo/photo_9.jpg?raw=true" width="500">
 
 `4. Обмеження результатів LIMIT `
 

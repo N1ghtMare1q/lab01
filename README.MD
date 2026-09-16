@@ -278,7 +278,7 @@
 
 ` SELECT * FROM  ``products``  ORDER BY  ``product_name``  ASC LIMIT 10 OFFSET 10; `
 
-
+<img src="https://github.com/N1ghtMare1q/lab01/blob/main/photo/photo_4.jpg?raw=true" width="500">
 
 `## Висновки`
 

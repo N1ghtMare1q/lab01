@@ -26,7 +26,7 @@
 
 ` SELECT  ``first_name`` ,  ``last_name`` ,  ``phone`` ,  ``email``  FROM  ``employees`
 
-
+file:///home/user/labs/photo.png
 
 `2. Прості умови WHERE`
 

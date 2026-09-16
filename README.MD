@@ -150,7 +150,7 @@
 
 ` SELECT * FROM  ``products``  WHERE  ``unit_price``  > 40000 OR  ``units_in_stock``  < 5; `
 
-<img src="https://github.com/N1ghtMare1q/lab01/blob/main/photo/photo_7.jpg?raw=true" width="500">
+<img src="https://github.com/N1ghtMare1q/lab01/blob/main/photo/photo_7.jpg?raw=true" width="1500">
 
 `3. Оператори IN, BETWEEN, IS NULL`
 

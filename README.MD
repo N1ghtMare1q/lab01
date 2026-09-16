@@ -26,7 +26,7 @@
 
 ` SELECT  ``first_name`` ,  ``last_name`` ,  ``phone`` ,  ``email``  FROM  ``employees`
 
-file:///home/user/labs/photo.png
+  blob:https://web.telegram.org/6e730c6e-5ca7-4208-ac69-3dd9325b4155
 
 `2. Прості умови WHERE`
 

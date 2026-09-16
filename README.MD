@@ -26,7 +26,7 @@
 
 ` SELECT  ``first_name`` ,  ``last_name`` ,  ``phone`` ,  ``email``  FROM  ``employees`
 
-
+<img src="https://github.com/N1ghtMare1q/lab01/blob/main/photo/photo_1.jpg?raw=true" width="500">
 
 
 `2. Прості умови WHERE`

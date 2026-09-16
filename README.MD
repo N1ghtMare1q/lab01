@@ -112,7 +112,7 @@
 
 ` SELECT * FROM  ``products``  WHERE  ``product_name``  ILIKE '%128GB%'; `
 
-<img src="https://github.com/N1ghtMare1q/lab01/blob/main/photo/photo_8.jpg?raw=true" width="500">
+<img src="https://github.com/N1ghtMare1q/lab01/blob/main/photo/photo_8.jpg?raw=true" width="1500">
 
 `2. Логічні оператори AND, OR, NOT`
 
